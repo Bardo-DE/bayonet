@@ -76,8 +76,7 @@ them against a real plugin program.
 
 ## Run, never link
 
-bayonet exists so that copyleft and codec code is never linked into an application. See
-`CONVENTIONS.md`, section 15.
+bayonet exists so that copyleft and codec code is never linked into an application.
 
 ## Licence
 
